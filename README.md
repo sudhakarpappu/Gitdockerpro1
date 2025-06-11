@@ -1,0 +1,1 @@
+## This proj is example of github actions
